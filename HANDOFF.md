@@ -25,4 +25,4 @@
 - `docs/PRD.md` — 요구사항 전부 (특히 5장 기능, 6장 앱 느낌 표, 7장 기술, 8장 Flow 에셋 프롬프트)
 - `docs/기획.md` — 레퍼런스 조사: 아이엠파인 작품 페이지(2024·2025 Lucky Grab, 2026 Lucky Pinball), 재현판 구조 분석
 - 앱 디자인 키트: 응답하라 저장소(issean99/eungdap) `app/design_ref/v0.11/Kit_Colors.html`, `Kit_Messenger.html`, 글꼴 `app/assets/fonts/`
-- 응답하라 저장소 쪽 작업은 브랜치 `claude/exhibition-claw-machine-project-93be06`에 커밋 안 된 채로 남아 있음 (`전시_질문뽑기/` PRD·기획·폐기된 시안, `.claude/launch.json`)
+- 응답하라 저장소 쪽 작업 브랜치(`claude/exhibition-claw-machine-project-93be06`)는 커밋 없이 보관(폐기)함. 필요한 PRD·기획은 이 저장소 `docs/`로 옮김. 폐기된 시안 파일은 남아 있지 않음
